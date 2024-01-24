@@ -1,5 +1,4 @@
-{
-    "items":[
+[
         {
             "id": 1,
             "title": "1h_ore_metal",
@@ -331,4 +330,3 @@
             "description": ""
         }
     ]
-}
