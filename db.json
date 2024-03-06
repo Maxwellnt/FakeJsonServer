@@ -1,1 +1,154 @@
-{"Recipes":[{"Index":299,"ID":"wooden_plank_2","craft_in":"mf_saw_1","needs":[{"id":"wood","value":"1"}],"output":[{"id":"wooden_plank","value":"-1"},{"id":"r","value":"2"}],"icon":"i_wooden_plank"},{"Index":300,"ID":"wooden_plank","craft_in":"mf_workbench_1","needs":[{"id":"flitch","value":"1"}],"output":[{"id":"wooden_plank","value":"1"},{"id":"r","value":"1"}],"icon":"i_wooden_plank"},{"Index":304,"ID":"wood_balk_1","craft_in":"mf_saw_1","needs":[{"id":"wood","value":"1"},{"id":"detail_2","value":"1"}],"output":[{"id":"wood_balk_1","value":"-1"},{"id":"r","value":"3"}],"icon":"i_wood_balk_1"},{"Index":297,"ID":"wood1_2","craft_in":"mf_saw_1","needs":[{"id":"wood","value":"1"}],"output":[{"id":"wood1","value":"-1"},{"id":"r","value":"3"}],"icon":"i_wood1"},{"Index":242,"ID":"sword_1","craft_in":"mf_workbench_1","needs":[{"id":"wooden_plank","value":"1"},{"id":"detail_2","value":"4"},{"id":"rope_hemp","value":"2"}],"output":[{"id":"sword_1","value":"1"},{"id":"r","value":"2"}],"icon":"i_sword_1"},{"Index":227,"ID":"shovel_1","craft_in":"mf_anvil_1","needs":[{"id":"stick","value":"2"},{"id":"detail_1","value":"2"},{"id":"ingot_metal","value":"1"}],"output":[{"id":"shovel_1","value":"1"},{"id":"r","value":"1"}],"icon":"i_shovel_1"},{"Index":350,"ID":"flyer_bad","craft_in":"desk","needs":[{"id":"pen:ink_pen","value":"1"},{"id":"paper_clean","value":"1"}],"output":[{"id":"flyer:flyer_bad","value":"5"},{"id":"b","value":"1"}],"icon":"i_scroll_white_graph_1"},{"Index":358,"ID":"story","craft_in":"desk","needs":[{"id":"pen:ink_pen","value":"1"},{"id":"paper_clean","value":"1"},{"id":"faith","value":"3"}],"output":[{"id":"story","value":"1"},{"id":"b","value":"1"}],"icon":"i_scroll_story"},{"Index":308,"ID":"repair_wdn","craft_in":"mf_workbench_1","needs":[{"id":"flitch","value":"4"},{"id":"wooden_plank","value":"1"},{"id":"nails","value":"4"}],"output":[{"id":"repair_wdn","value":"4"},{"id":"r","value":"1"}],"icon":"i_repair_wd"},{"Index":312,"ID":"polishing_paste","craft_in":"mf_workbench_1","needs":[{"id":"sand_river","value":"1"},{"id":"drop_oil","value":"1"},{"id":"ceramic_1","value":"1"}],"output":[{"id":"polishing_paste","value":"1"},{"id":"r","value":"1"},{"id":"g","value":"1"}],"icon":"i_polishing_paste"},{"Index":230,"ID":"pickaxe_1","craft_in":"mf_anvil_1","needs":[{"id":"stick","value":"2"},{"id":"detail_1","value":"3"},{"id":"ingot_metal","value":"1"}],"output":[{"id":"pickaxe_1","value":"1"},{"id":"r","value":"1"}],"icon":"i_pickaxe_1"},{"Index":332,"ID":"old_paper","craft_in":"desk","needs":[{"id":"book_ruined_1","value":"1"},{"id":"sand_river","value":"1"}],"output":[{"id":"paper_clean","value":"2"},{"id":"r","value":"1"},{"id":"b","value":"1"}],"icon":"i_paper_good"},{"Index":365,"ID":"pail_wet_paper","craft_in":"desk","needs":"","output":[{"id":"pail_wet_paper","value":"1"}],"icon":"i_pail_wet_paper"},{"Index":337,"ID":"notes","craft_in":"desk","needs":[{"id":"story","value":"1"},{"id":"pen:ink_pen","value":"1"},{"id":"paper_clean","value":"1"}],"output":[{"id":"notes","value":"1"},{"id":"b","value":"1"}],"icon":"i_note_good"},{"Index":218,"ID":"nails","craft_in":"mf_anvil_1","needs":[{"id":"ingot_metal","value":"1"}],"output":[{"id":"nails","value":"-1"},{"id":"r","value":"1"}],"icon":"i_nails"},{"Index":212,"ID":"ingot_metal","craft_in":"mf_furnace_0","needs":[{"id":"1h_ore_metal","value":"1"}],"output":[{"id":"ingot_metal","value":"1"},{"id":"ash","value":"5"},{"id":"r","value":"1"}],"icon":"i_ingot_metal"},{"Index":213,"ID":"ingot_metal_huge","craft_in":"mf_furnace_0","needs":[{"id":"1h_ore_metal","value":"2"}],"output":[{"id":"ingot_metal","value":"2"},{"id":"ash","value":"10"},{"id":"r","value":"1"}],"icon":"i_ingot_metal"},{"Index":431,"ID":"grave_top_wd_tab_1","craft_in":"mf_workbench_1","needs":[{"id":"flitch","value":"2"},{"id":"nails","value":"1"}],"output":[{"id":"grave_top_wd_tab_1","value":"1"},{"id":"r","value":"3"}],"icon":"i_grave_top_wd_tab_1"},{"Index":436,"ID":"grave_top_wd_cross_1","craft_in":"mf_workbench_1","needs":[{"id":"wooden_plank","value":"1"},{"id":"nails","value":"1"}],"output":[{"id":"grave_top_wd_cross_1","value":"1"},{"id":"r","value":"5"}],"icon":"i_grave_top_wd_cross_1"},{"Index":434,"ID":"grave_bot_wd_1","craft_in":"mf_workbench_1","needs":[{"id":"wooden_plank","value":"1"}],"output":[{"id":"grave_bot_wd_1","value":"1"},{"id":"r","value":"2"}],"icon":"i_grave_bot_wd_1"},{"Index":235,"ID":"glass_0","craft_in":"mf_furnace_0","needs":[{"id":"sand_river","value":"2"},{"id":"water","value":"1"}],"output":[{"id":"glass_0","value":"1"},{"id":"ash","value":"2"},{"id":"r","value":"1"},{"id":"b","value":"1"}],"icon":"i_glass_0"},{"Index":298,"ID":"flitch_2","craft_in":"mf_saw_1","needs":[{"id":"wood","value":"1"}],"output":[{"id":"flitch","value":"-1"},{"id":"r","value":"1"}],"icon":"i_flitch"},{"Index":221,"ID":"detail_1","craft_in":"mf_anvil_1","needs":[{"id":"ingot_metal","value":"1"}],"output":[{"id":"detail_1","value":"-1"},{"id":"r","value":"1"}],"icon":"i_detail_1"},{"Index":261,"ID":"chisel_2","craft_in":"mf_workbench_1","needs":[{"id":"stick","value":"2"},{"id":"detail_3","value":"1"}],"output":[{"id":"chisel:chisel_2:1","value":"1"},{"id":"r","value":"2"}],"icon":"i_chisel_2"},{"Index":262,"ID":"chisel_2a","craft_in":"mf_workbench_1","needs":[{"id":"stick","value":"2"},{"id":"detail_3","value":"1"},{"id":"lense","value":"1"}],"output":[{"id":"chisel:chisel_2:2","value":"1"},{"id":"r","value":"2"}],"icon":"i_chisel_2"},{"Index":240,"ID":"chisel_1","craft_in":"mf_workbench_1","needs":[{"id":"stick","value":"4"},{"id":"detail_1","value":"3"}],"output":[{"id":"chisel:chisel_1","value":"1"},{"id":"r","value":"2"}],"icon":"i_chisel_1"},{"Index":274,"ID":"ceramic_3","craft_in":"mf_furnace_0","needs":[{"id":"ceramic_2","value":"1"},{"id":"powder_white","value":"2"}],"output":[{"id":"ceramic_3","value":"1"},{"id":"ash","value":"3"},{"id":"r","value":"2"}],"icon":"i_ceramic_3"},{"Index":271,"ID":"ceramic_2","craft_in":"mf_furnace_0","needs":[{"id":"ceramic_1","value":"10"}],"output":[{"id":"ceramic_2","value":"10"},{"id":"ash","value":"3"},{"id":"r","value":"1"}],"icon":"i_ceramic_2"},{"Index":318,"ID":"ceramic_1","craft_in":"mf_potter_wheel_1","needs":[{"id":"clay","value":"1"},{"id":"water","value":"1"}],"output":[{"id":"ceramic_1","value":"3"},{"id":"r","value":"1"},{"id":"g","value":"1"}],"icon":"i_ceramic_1"},{"Index":348,"ID":"book_hard","craft_in":"desk","needs":[{"id":"cover","value":"1"},{"id":"chapter","value":"1"}],"output":[{"id":"book:book_hard","value":"1"},{"id":"r","value":"1"},{"id":"b","value":"1"}],"icon":"i_book_gold_2"},{"Index":522,"ID":"b_village","craft_in":"desk","needs":[{"id":"chapter","value":"1"},{"id":"faith","value":"3"}],"output":[{"id":"b_village","value":"1"},{"id":"b","value":"3"}],"icon":"i_b_vilage"},{"Index":520,"ID":"b_sword","craft_in":"desk","needs":[{"id":"book:book_hard","value":"1"},{"id":"faith","value":"5"}],"output":[{"id":"b_sword","value":"1"},{"id":"b","value":"3"}],"icon":"i_b_sword"},{"Index":526,"ID":"b_star","craft_in":"desk","needs":[{"id":"book:book_hard","value":"1"},{"id":"faith","value":"5"}],"output":[{"id":"b_pen","value":"1"},{"id":"b","value":"3"}],"icon":"i_b_star"},{"Index":518,"ID":"b_skull","craft_in":"desk","needs":[{"id":"book:book_hard","value":"1"},{"id":"faith","value":"5"}],"output":[{"id":"b_skull","value":"1"},{"id":"b","value":"3"}],"icon":"i_b_skull"},{"Index":516,"ID":"b_sins","craft_in":"desk","needs":[{"id":"chapter","value":"1"},{"id":"faith","value":"3"}],"output":[{"id":"b_sins","value":"1"},{"id":"b","value":"3"}],"icon":"i_b_sins"},{"Index":514,"ID":"b_shield","craft_in":"desk","needs":[{"id":"book:book_hard","value":"1"},{"id":"faith","value":"5"}],"output":[{"id":"b_shield","value":"1"},{"id":"b","value":"3"}],"icon":"i_b_shield"},{"Index":512,"ID":"b_plant","craft_in":"desk","needs":[{"id":"chapter","value":"1"},{"id":"faith","value":"3"}],"output":[{"id":"b_plant","value":"1"},{"id":"b","value":"3"}],"icon":"i_b_plant"},{"Index":524,"ID":"b_pen","craft_in":"desk","needs":[{"id":"book:book_hard","value":"1"},{"id":"faith","value":"5"}],"output":[{"id":"b_pen","value":"1"},{"id":"b","value":"3"}],"icon":"i_b_pen"},{"Index":510,"ID":"b_money","craft_in":"desk","needs":[{"id":"chapter","value":"1"},{"id":"faith","value":"3"}],"output":[{"id":"b_money","value":"1"},{"id":"b","value":"3"}],"icon":"i_b_money"},{"Index":508,"ID":"b_faith_money","craft_in":"desk","needs":[{"id":"book:book_hard","value":"1"},{"id":"faith","value":"5"}],"output":[{"id":"b_faith_money","value":"1"},{"id":"b","value":"3"}],"icon":"i_b_faith_money"},{"Index":506,"ID":"b_faith","craft_in":"desk","needs":[{"id":"chapter","value":"1"},{"id":"faith","value":"3"}],"output":[{"id":"b_faith","value":"1"},{"id":"b","value":"3"}],"icon":"i_b_faith"},{"Index":224,"ID":"axe_1","craft_in":"mf_anvil_1","needs":[{"id":"stick","value":"2"},{"id":"detail_1","value":"2"},{"id":"ingot_metal","value":"1"}],"output":[{"id":"axe_1","value":"1"},{"id":"r","value":"1"}],"icon":"i_axe_1"},{"Index":244,"ID":"armor_lamellar_1","craft_in":"mf_workbench_1","needs":[{"id":"skin","value":"4"},{"id":"detail_1","value":"6"}],"output":[{"id":"armor_lamellar_1","value":"1"},{"id":"r","value":"1"}],"icon":"i_armor_lamellar_1"},{"Index":263,"ID":"chisel_2b","craft_in":"mf_workbench_1","needs":[{"id":"chisel:chisel_2","value":"1"},{"id":"detail_3","value":"1"},{"id":"lense","value":"1"}],"output":[{"id":"chisel:chisel_2","value":"1"},{"id":"r","value":"2"}],"icon":""},{"Index":339,"ID":"chapter","craft_in":"desk","needs":[{"id":"notes","value":"1"},{"id":"notes","value":"1"},{"id":"notes","value":"1"}],"output":[{"id":"chapter","value":"1"},{"id":"b","value":"3"}],"icon":""}]}
+{
+  "Recipes": [
+    {
+      "Index": 299,
+      "ID": "wooden_plank_2",
+      "craft_in": "mf_saw_1",
+      "needs": [
+        {
+          "id": "wood",
+          "value": "1"
+        }
+      ],
+      "output": [
+        {
+          "id": "wooden_plank",
+          "value": "-1"
+        },
+        {
+          "id": "r",
+          "value": "2"
+        }
+      ],
+      "icon": "i_wooden_plank"
+    },
+    {
+      "Index": 300,
+      "ID": "wooden_plank",
+      "craft_in": "mf_workbench_1",
+      "needs": [
+        {
+          "id": "flitch",
+          "value": "1"
+        }
+      ],
+      "output": [
+        {
+          "id": "wooden_plank",
+          "value": "1"
+        },
+        {
+          "id": "r",
+          "value": "1"
+        }
+      ],
+      "icon": "i_wooden_plank"
+    },
+    {
+      "Index": 304,
+      "ID": "wood_balk_1",
+      "craft_in": "mf_saw_1",
+      "needs": [
+        {
+          "id": "wood",
+          "value": "1"
+        },
+        {
+          "id": "detail_2",
+          "value": "1"
+        }
+      ],
+      "output": [
+        {
+          "id": "wood_balk_1",
+          "value": "-1"
+        },
+        {
+          "id": "r",
+          "value": "3"
+        }
+      ],
+      "icon": "i_wood_balk_1"
+    },
+    {
+      "Index": 297,
+      "ID": "wood1_2",
+      "craft_in": "mf_saw_1",
+      "needs": [
+        {
+          "id": "wood",
+          "value": "1"
+        }
+      ],
+      "output": [
+        {
+          "id": "wood1",
+          "value": "-1"
+        },
+        {
+          "id": "r",
+          "value": "3"
+        }
+      ],
+      "icon": "i_wood1"
+    },
+    {
+      "Index": 242,
+      "ID": "sword_1",
+      "craft_in": "mf_workbench_1",
+      "needs": [
+        {
+          "id": "wooden_plank",
+          "value": "1"
+        },
+        {
+          "id": "detail_2",
+          "value": "4"
+        },
+        {
+          "id": "rope_hemp",
+          "value": "2"
+        }
+      ],
+      "output": [
+        {
+          "id": "sword_1",
+          "value": "1"
+        },
+        {
+          "id": "r",
+          "value": "2"
+        }
+      ],
+      "icon": "i_sword_1"
+    },
+    {
+      "Index": 227,
+      "ID": "shovel_1",
+      "craft_in": "mf_anvil_1",
+      "needs": [
+        {
+          "id": "stick",
+          "value": "2"
+        },
+        {
+          "id": "detail_1",
+          "value": "2"
+        },
+        {
+          "id": "ingot_metal",
+          "value": "1"
+        }
+      ],
+      "output": [
+        {
+          "id": "shovel_1",
+          "value": "1"
+        },
+        {
+          "id": "r",
+          "value": "1"
+        }
+      ],
+      "icon": "i_shovel_1"
+    }]}
