@@ -20,7 +20,7 @@
           "value": "2"
         }
       ],
-      "icon": "i_wooden_plank"
+      "icon": "https://static.wikia.nocookie.net/graveyardkeeper_gamepedia_en/images/d/d6/Wooden_plank_item.png"
     },
     {
       "Index": 300,
@@ -42,7 +42,7 @@
           "value": "1"
         }
       ],
-      "icon": "i_wooden_plank"
+      "icon": "https://static.wikia.nocookie.net/graveyardkeeper_gamepedia_en/images/d/d6/Wooden_plank_item.png"
     },
     {
       "Index": 304,
@@ -68,7 +68,7 @@
           "value": "3"
         }
       ],
-      "icon": "i_wood_balk_1"
+      "icon": "https://static.wikia.nocookie.net/graveyardkeeper_gamepedia_en/images/6/67/Wooden_beam_item.png"
     },
     {
       "Index": 297,
@@ -90,7 +90,7 @@
           "value": "3"
         }
       ],
-      "icon": "i_wood1"
+      "icon": "https://static.wikia.nocookie.net/graveyardkeeper_gamepedia_en/images/c/c2/Billet.png"
     },
     {
       "Index": 242,
@@ -120,7 +120,7 @@
           "value": "2"
         }
       ],
-      "icon": "i_sword_1"
+      "icon": "https://static.wikia.nocookie.net/graveyardkeeper_gamepedia_en/images/3/37/Sword_item.png"
     },
     {
       "Index": 227,
@@ -150,5 +150,5 @@
           "value": "1"
         }
       ],
-      "icon": "i_shovel_1"
+      "icon": "https://static.wikia.nocookie.net/graveyardkeeper_gamepedia_en/images/0/03/Shovel_i_item.png"
     }]}
