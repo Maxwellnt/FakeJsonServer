@@ -151,4 +151,98 @@
         }
       ],
       "icon": "https://static.wikia.nocookie.net/graveyardkeeper_gamepedia_en/images/0/03/Shovel_i_item.png"
-    }]}
+    },
+   {
+    "Index": 312,
+    "ID": "polishing_paste",
+    "craft_in": "mf_workbench_1",
+    "needs": [
+      {
+        "id": "sand_river",
+        "value": "1"
+      },
+      {
+        "id": "drop_oil",
+        "value": "1"
+      },
+      {
+        "id": "ceramic_1",
+        "value": "1"
+      }
+    ],
+    "output": [
+      {
+        "id": "polishing_paste",
+        "value": "1"
+      },
+      {
+        "id": "r",
+        "value": "1"
+      },
+      {
+        "id": "g",
+        "value": "1"
+      }
+    ],
+    "icon": "https://static.wikia.nocookie.net/graveyardkeeper_gamepedia_en/images/a/a1/Polishing_paste_item.png"
+  },
+  {
+    "Index": 230,
+    "ID": "pickaxe_1",
+    "craft_in": "mf_anvil_1",
+    "needs": [
+      {
+        "id": "stick",
+        "value": "2"
+      },
+      {
+        "id": "detail_1",
+        "value": "3"
+      },
+      {
+        "id": "ingot_metal",
+        "value": "1"
+      }
+    ],
+    "output": [
+      {
+        "id": "pickaxe_1",
+        "value": "1"
+      },
+      {
+        "id": "r",
+        "value": "1"
+      }
+    ],
+    "icon": "https://static.wikia.nocookie.net/graveyardkeeper_gamepedia_en/images/0/01/Pickaxe_I_item.png"
+  },
+  {
+    "Index": 332,
+    "ID": "old_paper",
+    "craft_in": "desk",
+    "needs": [
+      {
+        "id": "book_ruined_1",
+        "value": "1"
+      },
+      {
+        "id": "sand_river",
+        "value": "1"
+      }
+    ],
+    "output": [
+      {
+        "id": "paper_clean",
+        "value": "2"
+      },
+      {
+        "id": "r",
+        "value": "1"
+      },
+      {
+        "id": "b",
+        "value": "1"
+      }
+    ],
+    "icon": "https://static.wikia.nocookie.net/graveyardkeeper_gamepedia_en/images/6/65/Clean_paper_item.png"
+  }]}
