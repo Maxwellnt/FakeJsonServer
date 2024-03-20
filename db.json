@@ -245,4 +245,107 @@
       }
     ],
     "icon": "https://static.wikia.nocookie.net/graveyardkeeper_gamepedia_en/images/6/65/Clean_paper_item.png"
+  }, {
+    "Index": 235,
+    "ID": "glass_0",
+    "craft_in": "mf_furnace_0",
+    "needs": [
+      {
+        "id": "sand_river",
+        "value": "2"
+      },
+      {
+        "id": "water",
+        "value": "1"
+      }
+    ],
+    "output": [
+      {
+        "id": "glass_0",
+        "value": "1"
+      },
+      {
+        "id": "ash",
+        "value": "2"
+      },
+      {
+        "id": "r",
+        "value": "1"
+      },
+      {
+        "id": "b",
+        "value": "1"
+      }
+    ],
+    "icon": "https://static.wikia.nocookie.net/graveyardkeeper_gamepedia_en/images/7/78/Glass_item.png"
+  },
+  {
+    "Index": 298,
+    "ID": "flitch_2",
+    "craft_in": "mf_saw_1",
+    "needs": [
+      {
+        "id": "wood",
+        "value": "1"
+      }
+    ],
+    "output": [
+      {
+        "id": "flitch",
+        "value": "-1"
+      },
+      {
+        "id": "r",
+        "value": "1"
+      }
+    ],
+    "icon": "https://static.wikia.nocookie.net/graveyardkeeper_gamepedia_en/images/0/04/I_flitch.png"
+  },
+  {
+    "Index": 221,
+    "ID": "detail_1",
+    "craft_in": "mf_anvil_1",
+    "needs": [
+      {
+        "id": "ingot_metal",
+        "value": "1"
+      }
+    ],
+    "output": [
+      {
+        "id": "detail_1",
+        "value": "-1"
+      },
+      {
+        "id": "r",
+        "value": "1"
+      }
+    ],
+    "icon": "https://static.wikia.nocookie.net/graveyardkeeper_gamepedia_en/images/8/8b/Simple_iron_parts_item.png"
+  },
+  {
+    "Index": 261,
+    "ID": "chisel_2",
+    "craft_in": "mf_workbench_1",
+    "needs": [
+      {
+        "id": "stick",
+        "value": "2"
+      },
+      {
+        "id": "detail_3",
+        "value": "1"
+      }
+    ],
+    "output": [
+      {
+        "id": "chisel:chisel_2:1",
+        "value": "1"
+      },
+      {
+        "id": "r",
+        "value": "2"
+      }
+    ],
+    "icon": "https://static.wikia.nocookie.net/graveyardkeeper_gamepedia_en/images/e/e3/Iron_chisel_item.png"
   }]}
